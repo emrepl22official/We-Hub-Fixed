@@ -939,7 +939,7 @@ InformationSection:Label("WeTeam © 2023 - "..osdate("%Y"))
 InformationSection:Button({
 	Name = "Copy Discord Invite",
 	Callback = function()
-		setclipboard("https://discord.gg/Ncz3H3quUZ")
+		setclipboard("https://discord.gg/NczquUZ")
 	end
 })
 

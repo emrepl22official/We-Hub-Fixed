@@ -943,7 +943,6 @@ InformationSection:Button({
 	end
 })
 
---[=[
 local MiscellaneousSection = Settings:Section({
 	Name = "Miscellaneous",
 	Side = "Right"
@@ -970,7 +969,6 @@ delay(2, function()
 		FPSLabel:Set("FPS: "..mathfloor(1 / FPS))
 	end)
 end)
-]=]
 
 --//
 
